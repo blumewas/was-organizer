@@ -1,0 +1,33 @@
+Bookmarks v11.3.1
+  code-settings-sync v3.4.3
+  emojisense v0.7.0
+  git-emoji v1.0.6
+  markdown-pdf v1.4.4
+  markdown-preview-github-styles v0.1.6
+  material-icon-theme v4.2.0
+  remote-wsl v0.44.4
+  todo-tree v0.0.178
+  vs-html-to-css v1.0.0
+  vscode-markdownlint v0.36.3
+  vscode-theme-onedark v2.2.2
+  vscode-typescript-tslint-plugin v1.2.3
+
+ms-vscode.js-debug
+ms-vscode.js-debug-companion
+ms-vscode.node-debug
+ms-vscode.node-debug2
+ms-vscode.references-view
+ms-vscode.vscode-js-profile-table
+akamud.vscode-theme-onedark
+alefragnani.Bookmarks
+bierner.emojisense
+bierner.markdown-preview-github-styles
+DavidAnson.vscode-markdownlint
+Gruntfuggly.todo-tree
+maixiaojie.git-emoji
+ms-vscode-remote.remote-wsl
+neptunedesign.vs-html-to-css
+PKief.material-icon-theme
+Shan.code-settings-sync
+yzane.markdown-pdf
+undefined_publisher.was-organizer
